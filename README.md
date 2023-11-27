@@ -7,6 +7,7 @@
 - <b>AWS</b>
   - [Creating and Configuring an AWS Organization](https://giraldoyeison.github.io/CreatingOrganizations)
   - [AWS Configure Users with Organizations](https://giraldoyeison.github.io/ConfUsersWithOrganization/)
+  - [AWS Configure Users with Organizations](https://giraldoyeison.github.io/AWShostingStaticSite/)
 
 <!--
 **GiraldoYeison/GiraldoYeison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
