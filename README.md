@@ -2,6 +2,8 @@
 
 # Hi, I'm Yeison Giraldo System Administrator/Cloud Engineer , welcome to my portfolio
 
+# This site was created to share my knowledge through how-to guides, tutorials, and solutions to issues that I have encountered with differen technologies but mostly focus on AWS services
+
 <h2> ☁ Cloud Projects</h2>
   
 - <b>AWS</b>
