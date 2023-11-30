@@ -10,7 +10,7 @@
   - [Creating and Configuring an AWS Organization](https://giraldoyeison.github.io/CreatingOrganizations)
   - [AWS Configure Users with Organizations](https://giraldoyeison.github.io/ConfUsersWithOrganization/)
   - [Hosting a Static Website in AWS](https://giraldoyeison.github.io/AWShostingStaticSite/)
-  - [ELB with EC2 target grop](https://giraldoyeison.github.io/AWSELBwithEC2/)
+  - [ELB with EC2 target group](https://giraldoyeison.github.io/AWSELBwithEC2/)
 
 <!--
 **GiraldoYeison/GiraldoYeison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
