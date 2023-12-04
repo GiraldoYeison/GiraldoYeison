@@ -16,6 +16,14 @@
   - [How to create an AWS EC2 Instance](https://giraldoyeison.github.io/EC2LauchingInstance/)
   - [How to create an AWS EC2 Instance with user data](https://giraldoyeison.github.io/EC2userdata/)
   - [How to create Autoscaling Group with CloudWatch Alarms](https://giraldoyeison.github.io/EC2AutoScaling/)
+ 
+  - <b>AWS Project</b>
+  - [ Provide AWS solution for Data Anaylitics ] (https://sites.google.com/mymdc.net/e-corp-serverless-8/home)
+      - In this role, I gained expertise in leading a team of eight members in the creation of serverless solutions for data analytics using AWS services. My responsibilities included identifying and selecting the most suitable serverless services and providing detailed instructions for their implementation. Furthermore, I developed a STACK AI system that utilized the gathered information, enabling the company to access relevant information through ChatGPT on the site. This experience enhanced my proficiency in project management, AWS services, and the integration of artificial intelligence solutions into practical applications.
+      - Furthermore, I was in charge of creating and managing an AWS environment. I had to set up an AWS organization, create an account, and grant AIM access to eight team members. I was responsible for configuring Service Control Policies to permit specific services while denying access to any services not listed in the project. Upon completion of the project, I executed a CloudFormation stack to terminate all resources in the account, preventing any additional expenses post-project completion."
+    
+
+
 
 
 <!--
