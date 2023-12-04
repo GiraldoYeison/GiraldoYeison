@@ -13,6 +13,10 @@
   - [ELB with EC2 target group](https://giraldoyeison.github.io/AWSELBwithEC2/)
   - [Amazon API Gateway with Kinesis](https://giraldoyeison.github.io/APIGateway/)
   - [How to create an AWS account](https://giraldoyeison.github.io/CreatingAWSaccount/)
+  - [How to create an AWS EC2 Instance](https://giraldoyeison.github.io/EC2LauchingInstance/)
+  - [How to create an AWS EC2 Instance with user data](https://giraldoyeison.github.io/EC2userdata/)
+  - [How to create Autoscaling Group with CloudWatch Alarms](https://giraldoyeison.github.io/EC2AutoScaling/)
+
 
 <!--
 **GiraldoYeison/GiraldoYeison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +25,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... AWS SOlutions Architecte Certs
+- 🌱 I’m currently learning ... Python, Could Formation, Stack AI, HTML5. AWS IAM, EC2, ECS, EKS, ELB, S3 BUCKETS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
